@@ -1,0 +1,31 @@
+.devices-menu {
+    margin: 20px 20px 20px 0;
+    text-align: right;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.devices-table {
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+.table-options {
+    width: 5%;
+    text-align: center;
+}
+
+.table-name {
+    width: 20%;
+}
+
+.table-description {
+    width: 50%;
+}
+
+.table-owners {
+    width: 20%;
+}

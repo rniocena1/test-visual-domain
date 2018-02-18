@@ -1,0 +1,27 @@
+.titleBox {
+    width: 400px;
+    height: 150px;
+    border: 3px solid darkblue;
+    margin: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.company-div {
+    position: relative;
+    float: left;
+    left: 50%;
+    margin-top: 20%;
+    font-size: 18px;
+    transform: translate(-50%, -50%);
+}
+
+.companyNameOutput {
+    position: relative;
+    max-width: 390px;
+    float: left;
+    top: 50%;
+    left: 50%;
+    font-size: 18px;
+    transform: translate(-50%, -50%);
+}
