@@ -1,4 +1,4 @@
-# Rafunzel Niocena
+# Rafunzel N.
 
 Visual Domain technical test
 
