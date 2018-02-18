@@ -89,10 +89,6 @@
         return this.$store.state;
       },
 
-//      devices() {
-//        return this.storeStates.devices.devices;
-//      },
-
       canEdit() {
         const selectedDevices = this.devices.filter((device) => {
           return device.selected;
